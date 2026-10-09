@@ -128,8 +128,3 @@ Potential improvements include:
 ## Project Status
 
 Developed as part of the RAG Chatbot Hackathon. The final capabilities, model configuration, and deployment details will be updated as implementation progresses.
-
-
-
-**SENTEC RAG Chatbot**
-*Making document knowledge easier to access through conversational AI.*
