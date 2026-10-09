@@ -93,7 +93,7 @@ flowchart TD
 
 ## Team
 
-Built by a collaborative team for the SENTEC RAG Chatbot Hackathon.
+Built by a collaborative team for the RAG Chatbot Hackathon.
 
 | Team Member     | GitHub                                                                   |
 | --------------- | ------------------------------------------------------------------------ |
